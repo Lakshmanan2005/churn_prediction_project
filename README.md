@@ -76,4 +76,4 @@ streamlit run app.py
 [Add your Streamlit Cloud / Hugging Face Spaces link here after deployment]
 
 ## 👤 Author
-Your Name — [LinkedIn](#) | [Portfolio](#)
+Your Name — [LinkedIn](https://linkedin.com/in/lakshmanan-c-22342b292) | [Portfolio](https://lakshmanan2005.github.io/)
